@@ -1,0 +1,1 @@
+![Lighthouse](lighthouse.png)
